@@ -9,10 +9,15 @@ During my leisure time, I find great pleasure in delving into data analysis tool
 ## Portfolio Projects
 
 ### Nutrition Facts for McDonald's Menu
-DATASET:
-CODE: 
-GOAL: To analyse the least number of items could you order from the menu to meet one day's nutritional requirements
-Description: 
+
+Code:
+
+Goal: To analyse the least number of items could you order from the menu to meet one day's nutritional requirements
+
+Description:  The project focused on analyzing a dataset of Mcdonald's menu with the required nutrients of each item on the menu. The dataset included Categories, Items, calories, sugars, carbohydrates and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA).
+
+Skills: Data cleaning, Data analysis and visualization
+
 
 
 
