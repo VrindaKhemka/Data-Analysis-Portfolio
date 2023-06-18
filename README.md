@@ -10,7 +10,7 @@ During my leisure time, I find great pleasure in delving into data analysis tool
 
 ### Nutrition Facts for McDonald's Menu
 
-Code: [Nutrition Analysis of McDonald's Menu.ipynb](Nutrition Analysis of McDonald's Menu.ipynb)
+Code: [Nutrition Analysis of McDonald's Menu.ipynb](https://github.com/VrindaKhemka/Portfolio-Projects/blob/9ff004e1846ab6b442e956f6818e94a67192e28f/Nutrition%20Analysis%20of%20McDonald's%20Menu.ipynb))
 
 Goal: To analyse the least number of items could you order from the menu to meet one day's nutritional requirements
 
