@@ -10,7 +10,7 @@ During my leisure time, I find great pleasure in delving into data analysis tool
 
 ### Nutrition Facts for McDonald's Menu
 
-Code:
+Code: [Nutrition Analysis of McDonald's Menu.ipynb](Nutrition Analysis of McDonald's Menu.ipynb)
 
 Goal: To analyse the least number of items could you order from the menu to meet one day's nutritional requirements
 
