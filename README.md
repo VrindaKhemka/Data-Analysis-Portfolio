@@ -1,6 +1,6 @@
-# Vrinda Khemka- Data Science Portfolio 
+# Vrinda Khemka- Data Analyst Portfolio 
 ## About
-Highly motivated and quick-learning individual with a deep interest in the intersection of data science and finance. As an aspiring data scientist, I am driven by the endless possibilities of leveraging data to make strategic financial decisions. With previous experience in handling and leading multiple project teams, I thrive in collaborative environments where I can contribute my expertise and drive impactful outcomes. I possess a strong foundation in data analysis. Eager to apply my skills and knowledge to extract valuable insights and solve complex problems.
+Highly motivated and quick-learning individual with a deep interest in field of analysis. As an aspiring data analyst, I am driven by the endless possibilities of leveraging data to make strategic decisions. With previous experience in handling and leading multiple project teams, I thrive in collaborative environments where I can contribute my expertise and drive impactful outcomes. I possess a strong foundation in statistics. Eager to apply my skills and knowledge to extract valuable insights and solve complex problems.
 
 ## 
 
