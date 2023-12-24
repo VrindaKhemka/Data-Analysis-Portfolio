@@ -17,7 +17,7 @@ Description:  The project focused on analyzing a dataset of Mcdonald's menu with
 Skills: Data cleaning, Data analysis and visualization
 
 ### Customer Segmentation
-Code: [Nutrition Analysis of McDonald's Menu.ipynb](https://github.com/VrindaKhemka/Portfolio-Projects/blob/9ff004e1846ab6b442e956f6818e94a67192e28f/Nutrition%20Analysis%20of%20McDonald's%20Menu.ipynb)
+Code: [CustomerSegmentation.ipynb](https://github.com/VrindaKhemka/Portfolio-Projects/blob/main/CustomerSegmentation.ipynb)
 
 Goal: To develop a customer segmentation to define marketing strategy on 18 behavioral variables
 
