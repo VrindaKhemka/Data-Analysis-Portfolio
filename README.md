@@ -16,6 +16,15 @@ Description:  The project focused on analyzing a dataset of Mcdonald's menu with
 
 Skills: Data cleaning, Data analysis and visualization
 
+### Customer Segmentation
+Code: [Nutrition Analysis of McDonald's Menu.ipynb](https://github.com/VrindaKhemka/Portfolio-Projects/blob/9ff004e1846ab6b442e956f6818e94a67192e28f/Nutrition%20Analysis%20of%20McDonald's%20Menu.ipynb)
+
+Goal: To develop a customer segmentation to define marketing strategy on 18 behavioral variables
+
+Description:  Dataset summarizes the usage behavior of about 9000 active credit card holders during 6 months. The dataset contains 18 behavioral variables. Agglomerative Clustering was used as a means for segmentation.
+
+Skills: Data cleaning, Data analysis and visualization, Machine Learning, Unsupervised Learning Algorithm
+
 ### Analysis of lightning strikes in USA 2009-2018
 
 [Tableau Link](https://public.tableau.com/app/profile/vrinda.khemka)
