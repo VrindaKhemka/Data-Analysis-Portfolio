@@ -6,8 +6,9 @@ Highly motivated and quick-learning individual with a deep interest in field of 
 
 ## Portfolio Projects
 
-### Hotel Demand Prediction
+### Hotel Cancelation Prediction
 Link:
+
 Description: Performed EDA, which included Price Trend Analysis, customer behavior and demographic analysis followed by predicions using Machine Learning
 
 
