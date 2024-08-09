@@ -6,10 +6,9 @@ Highly motivated and quick-learning individual with a deep interest in field of 
 
 ## Portfolio Projects
 
-### Hotel Cancelation Prediction
-Link:
+### [Hotel Booking Cancelation Prediction](https://github.com/VrindaKhemka/Portfolio-Projects/blob/main/Nutrition%20Analysis%20of%20McDonald's%20Menu.ipynb)
 
-Description: Performed EDA, which included Price Trend Analysis, customer behavior and demographic analysis followed by predicions using Machine Learning
+Description: Performed Exploratory Data Analysis (EDA) that included Price Trend Analysis, customer behavior, and demographic analysis. Created a preprocessing pipeline and compared the performance of several machine learning models for test predictions: XGBoost, Random Forest, Decision Tree, and Logistic Regression.
 
 
 
