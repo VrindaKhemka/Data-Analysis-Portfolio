@@ -7,7 +7,7 @@ I am a data science enthusiast with a strong interest in Business Intelligence a
 
 ## Roshni: Examination App for NGOs - Tracking and Analyzing Academic Performance
 
-### [[Link to the repository](https://github.com/dikshantks/roshni/tree/evaluator-page))
+### [Link to the repository](https://github.com/dikshantks/roshni/tree/evaluator-page)
 
 Description: Roshni is a comprehensive tool for NGOs, featuring both a mobile application and a website. The mobile app aids fieldwork, while the website is accessed by admins and stakeholders. It centralizes student information, offers assessment tools, and provides analytics, empowering NGOs to track progress and demonstrate impact effectively.
 
