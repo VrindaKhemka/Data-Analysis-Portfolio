@@ -17,7 +17,7 @@ Description: Roshni is a comprehensive tool for NGOs, featuring both a mobile ap
 
 Description: Performed Exploratory Data Analysis (EDA) that included Price Trend Analysis, customer behavior, and demographic analysis. Created a preprocessing pipeline and compared the performance of several machine learning models for test predictions: XGBoost, Random Forest, Decision Tree, and Logistic Regression.
 
-## Wealth SImulation of different economies
+## Wealth Simulation of different economies
 
 ### [Link to the repository](https://github.com/VrindaKhemka/WealthSimulation)
 
