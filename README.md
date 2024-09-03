@@ -1,7 +1,6 @@
-# Vrinda Khemka- Data Scientist Portfolio 
+# Vrinda Khemka
 ## About
-Highly motivated and quick-learning individual with a deep interest in field of Data Science and Machine Learning. I am driven by the endless possibilities of leveraging data to make strategic decisions. Eager to apply my skills and knowledge to extract valuable insights and solve complex problems.
-
+I am a data science enthusiast with a strong interest in Business Intelligence and Machine Learning. I enjoy taking on new challenges andlearning new skills. I am eager to apply my abilities to solve real-world problems.
 ## 
 
 ## Portfolio Projects
@@ -20,13 +19,13 @@ Description: Performed Exploratory Data Analysis (EDA) that included Price Trend
 
 ## Wealth SImulation of different economies
 
-### [[Link to the repository]](https://github.com/VrindaKhemka/WealthSimulation))]
+### [Link to the repository](https://github.com/VrindaKhemka/WealthSimulation)
 
 Description: This project simulates three distinct economic models to analyze wealth distribution, using Agent Based Simulation Modelling. The goal is to understand the impact of these factors on wealth inequality and to develop a modified tax model aimed at achieving a more equitable distribution of wealth in India.
 
 ## HR Analytics and Prediction
 
-###[[HR Analytics and Prediction]](https://github.com/VrindaKhemka/Portfolio-Projects/blob/main/hr-analytics.ipynb))]
+### [HR Analytics and Prediction](https://github.com/VrindaKhemka/Portfolio-Projects/blob/main/hr-analytics.ipynb)
 
 Description: Conducted in-depth exploratory data analysis using Numpy and Pandas, uncovering key data patterns. Implemented a voting classifier combining XGBoost, CatBoost, and LightGBM to enhance model performance. Achieved a 94% accuracy score, demonstrating the effectiveness of the model in classification tasks.
 
